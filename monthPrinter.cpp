@@ -59,7 +59,6 @@ int main() {
             break;
         default :
             std::cout << "Invalid number" << std::endl;
-            break;
     }
 
     std::cout << "\nDone." << std::endl;
